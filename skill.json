@@ -1,0 +1,12 @@
+{
+  "name": "genpark-tar-archive-path-traversal-slip-sanitizer-skill",
+  "version": "1.0.0",
+  "description": "Archive decompression security validator neutralizing Zip Slip and Tar Slip path traversal escapes.",
+  "category": "Coding Agent Sandbox Security & Syscall Sentinel",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-tar-archive-path-traversal-slip-sanitizer-skill",
+  "verified": true,
+  "stars": 8
+}
